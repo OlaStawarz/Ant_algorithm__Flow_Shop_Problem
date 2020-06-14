@@ -4,7 +4,7 @@ download for free [here](https://pdfs.semanticscholar.org/dec2/f4177b3beaf9d5400
 
 This repository contains code and some files that I performed tests on. These files have different number of jobs and machines.
 
-This algorithm gives better solution than e.g. Neh but only when you improve solution by using local search. In my implementation I used SA.
+Algorithm gives better solution than e.g. Neh but only when you improve solution by using local search. In my implementation I used SA.
 
 Below you can see my comparision of calculating best Cmax for attached files.
 
